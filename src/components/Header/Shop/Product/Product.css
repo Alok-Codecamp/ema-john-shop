@@ -1,0 +1,13 @@
+.single-product{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-right: 1px solid gray;
+}
+.product-info{
+    
+    display: flex;
+    position: relative;
+}
